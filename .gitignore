@@ -1,0 +1,10 @@
+target/
+test-output/
+screenshots/
+reports/ExtentReport.html
+
+.classpath
+.project
+.settings/
+
+*.log
